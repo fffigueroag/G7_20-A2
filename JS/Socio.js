@@ -2,7 +2,7 @@ var UrlSocios ='http://52.152.236.67:90/G7_20/Controller/Socios_Negocio.php?opci
 var UrlPostSocio ='http://52.152.236.67:90/G7_20/Controller/Socios_Negocio.php?opcion=InsertSocio';
 var UrlPostSocioxid ='http://52.152.236.67:90/G7_20/Controller/Socios_Negocio.php?opcion=GetSocio';
 var UrlGetEliminarSocios ='http://52.152.236.67:90/G7_20/Controller/Socios_Negocio.php?opcion=DeleteSocio';
-var UrlUpdateSocios ='http://localhost:90/G7_20/controller/Facturas_Clientes.php?op=UpdateFactura';
+var UrlUpdateSocios ='http://52.152.236.67:90/G7_20/controller/Facturas_Clientes.php?op=UpdateFactura';
 
 
 $(document).ready(function(){
